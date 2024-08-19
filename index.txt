@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Meghana Koramutla Ramesh
+Meghana Koramutla Ramesh
 Web developer
 
 Show Contacts
@@ -18,7 +18,7 @@ Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Fairfax, Virginia, USA
 
 # navbar
 
