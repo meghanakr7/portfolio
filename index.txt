@@ -9,7 +9,7 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+mkoramut@gmu.edu
 
 Phone
 +1 (213) 352-2795
@@ -107,7 +107,7 @@ Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut
 
 Experience
 
-Creative director
+Software Developer
 2015 — Present
 Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
 
