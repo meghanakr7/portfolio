@@ -320,35 +320,7 @@ main {
   overflow: hidden;
   transition: var(--transition-2);
 }
-/* #geoweaver-image {
-  background: linear-gradient(to right, #ffecd2, #fcb69f, #ffdfba, #d1cfe2, #f3e9dc);
-  padding: 10px 20px 10px 10px; 
-  border-radius: 10px; 
-  display: block; 
-  margin: 10px; 
-  height: 180px; 
-} */
-#image-container {
-  background: linear-gradient(to right, #ffecd2, #fcb69f, #ffdfba, #d1cfe2, #f3e9dc);
-  padding: 10px 10px 10px 10px; /* Top, right, bottom, left padding */
-  border-radius: 10px; /* Rounds the corners of the background */
-  display: inline-block; /* Ensures container size fits around the content */
-  margin: 10px; /* Adds space around the container */
-}
-#geoweaver-image {
-  background: linear-gradient(to right, #ffecd2, #fcb69f, #ffdfba, #d1cfe2, #f3e9dc);
-  padding: 10px 10px 10px 10px; 
-  display: block; /* Ensures no extra space around the image */
-  height: 180px; /* Sets the image height */
-  border-radius: 10px; /* Optional: rounds the corners of the image */
-}
-#wildfire-image {
-  background: linear-gradient(to right, #f9c6c9, #f3d1a3, #fceec7, #d0f1c9, #c9dff2);
-  padding: 10px 10px 10px 10px; 
-  display: block; /* Ensures no extra space around the image */
-  height: 180px; /* Sets the image height */
-  border-radius: 10px; /* Optional: rounds the corners of the image */
-}
+
 .sidebar.active { max-height: 405px; }
 
 .sidebar-info {
@@ -377,8 +349,7 @@ main {
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
-  /* font-size: var(--fs-8); */
-  font-size: calc(var(--fs-8) - 2px); /* Reduced font size */
+  font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
   padding: 3px 12px;
